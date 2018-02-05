@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Hi, I'm Belle. I'm learning to code. 
